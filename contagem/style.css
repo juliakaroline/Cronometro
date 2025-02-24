@@ -1,0 +1,34 @@
+body {
+    background-image: url('src/imagens/caption.jpg');
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    -webkit-text-stroke: 4px black;
+}
+
+table {
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    -webkit-text-stroke: 4px black;
+}
+
+th {
+    font-size: 60px;
+    color: white ;
+    font-weight: bolder;
+    
+    
+}
+
+td {
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+    
+}
+
